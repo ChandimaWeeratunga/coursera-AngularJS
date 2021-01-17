@@ -47,6 +47,14 @@
             {
                 name: "chocolates",
                 quantity: "3"
+            },
+            {
+                name: "soaps",
+                quantity: "3"
+            },
+            {
+                name: "shampoo",
+                quantity: "1"
             }
         ];
         var boughtList = [];
